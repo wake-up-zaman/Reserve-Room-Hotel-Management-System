@@ -13,7 +13,7 @@ const Featured = () => {
                     <h1>Zürich</h1>
                
                 </div>
-                <p className='properties'>544 Properties</p>
+                <p className='properties'>544 Propertie</p>
             </div>
             <div className='featuredItem'>
                 <img className='featuredImg' src={du} alt=''></img>
